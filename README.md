@@ -22,6 +22,7 @@
 ### Libraries and Frameworks
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
 ![Rails](https://img.shields.io/badge/-Rails-333333?style=flat&logo=rubyonrails)
 
 ### Infrastructure and DevOps
