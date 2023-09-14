@@ -2,7 +2,6 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/jean-carlos-farias-85591724/"><img src="https://img.shields.io/badge/-Jean%20Carlos%20Farias-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-    <a href="https://steamcommunity.com/id/jeancx/"><img src="https://img.shields.io/badge/-jeancx-333333?style=flat-square&logo=steam"/></a>
 </p>
 
 ## About Me
@@ -16,12 +15,14 @@
 
 ### Languages
 
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=7e10cc)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
 
 ### Libraries and Frameworks
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Ruby on Rails]([https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js](https://img.shields.io/badge/-Rails-333333?style=flat&logo=rubyonrails))
 
 ### Infrastructure and DevOps
 
