@@ -1,7 +1,7 @@
 # Hi there 👋 I am Jean Carlos Farias
 
 <p align="center">
-    <a href="[[https://www.linkedin.com/in/jean-carlos-farias-85591724/](https://www.linkedin.com/in/jean-cx-dev/)](https://www.linkedin.com/in/jean-cx-dev/)"><img src="https://img.shields.io/badge/-Jean%20Carlos%20Farias-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/jean-cx-dev/"><img src="https://img.shields.io/badge/-Jean%20Carlos%20Farias-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
 
 ## About Me
